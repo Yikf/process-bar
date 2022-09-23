@@ -7,7 +7,7 @@ mvn clean package -DskipTests
 ```
 
 ## How to use?
-process bar provide a shell for users, you can find it in `bin` director, more usage see:
+process bar provide a shell for users, you can find it in `bin` directory, more usage see:
 ```
 sh process-bar.sh -h
 ```
@@ -15,7 +15,7 @@ sh process-bar.sh -h
 
 
 ## Extensions
-You can simple implement this `com.icafe.command.ProcessBar` interface to extension your process bar, and put extension jar to shell director to get process bar output.
+You can simple implement this `com.icafe.command.ProcessBar` interface to extension your process bar, and put extension jar to shell directory to get process bar output.
 
 ## Rendering
 
